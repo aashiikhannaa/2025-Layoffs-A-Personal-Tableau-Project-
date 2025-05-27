@@ -1,0 +1,146 @@
+Company,Location HQ,# Laid Off,Date,%,Industry,Stage,$ Raised (mm),Country,Date Added,Month,Layoff Region
+LeddarTech,"Quebec,Non-U.S.",138.0,2025-05-22,95.0,Transportation,Post-IPO,402.0,Canada,5/23/2025,May,Non-US
+Climeworks,"Zurich,Non-U.S.",106.0,2025-05-21,22.0,Energy,Private Equity,734.0,Switzerland,5/23/2025,May,Non-US
+Builder.ai,"London,Non-U.S.",0.0,2025-05-20,100.0,AI,Series D,445.0,United States,5/23/2025,May,US
+Blink Charging,Baltimore,0.0,2025-05-19,20.0,Other,Post-IPO,110.0,United States,5/23/2025,May,US
+VerSe Innovation copy,"Bengaluru,Non-U.S.",350.0,2025-05-18,0.0,Media,Series J,1700.0,India,5/23/2025,May,Non-US
+GroundGame Health,Tampa Bay,97.0,2025-05-15,0.0,Healthcare,Series A,17.0,United States,5/16/2025,May,US
+Noogata,"Tel Aviv,Non-U.S.",10.0,2025-05-15,100.0,AI,Series A,28.0,Israel,5/16/2025,May,Non-US
+Amazon,Seattle,100.0,2025-05-14,0.0,Retail,Post-IPO,8100.0,United States,5/16/2025,May,US
+Microsoft,Seattle,6000.0,2025-05-13,3.0,Other,Post-IPO,1.0,United States,5/13/2025,May,US
+Chegg,SF Bay Area,248.0,2025-05-12,22.0,Education,Post-IPO,227.0,United States,5/13/2025,May,US
+Match Group,New York City,325.0,2025-05-08,13.0,Consumer,Post-IPO,0.0,United States,5/9/2025,May,US
+CrowdStrike,SF Bay Area,500.0,2025-05-07,5.0,Security,Post-IPO,1200.0,United States,5/7/2025,May,US
+OpenText,"Waterloo,Non-U.S.",1600.0,2025-05-06,0.0,Data,Post-IPO,1100.0,Canada,5/16/2025,May,Non-US
+GenWise,"New Delhi,Non-U.S.",15.0,2025-05-05,20.0,Other,Seed,3.0,India,5/6/2025,May,Non-US
+General Fusion,"Vancouver,Non-U.S.",0.0,2025-05-05,25.0,Energy,Unknown,370.0,Canada,5/6/2025,May,Non-US
+Deep Instinct,"Tel Aviv,Non-U.S.",20.0,2025-05-04,10.0,Security,Unknown,322.0,Israel,5/6/2025,May,Non-US
+Log 9 Materials,"Bengaluru,Non-U.S.",0.0,2025-05-02,100.0,Manufacturing,Series B,32.0,India,5/3/2025,May,Non-US
+Beam,"Bristol,Non-U.S.",200.0,2025-05-01,100.0,Other,Unknown,0.0,United Kingdom,5/3/2025,May,Non-US
+Bench,SF Bay Area,0.0,2025-05-01,0.0,Finance,Acquired,109.0,United States,5/3/2025,May,US
+NetApp,SF Bay Area,700.0,2025-04-30,6.0,Data,Post-IPO,0.0,United States,5/3/2025,April,US
+Electronic Arts,SF Bay Area,300.0,2025-04-29,0.0,Consumer,Post-IPO,2.0,United States,5/3/2025,April,US
+Stem,SF Bay Area,0.0,2025-04-29,27.0,Energy,Post-IPO,583.0,United States,5/3/2025,April,US
+Expedia,Seattle,0.0,2025-04-28,3.0,Travel,Post-IPO,3300.0,United States,5/3/2025,April,US
+Spotter,Los Angeles,0.0,2025-04-28,0.0,Other,Unknown,238.0,United States,5/3/2025,April,US
+Tomorrow,Seattle,0.0,2025-04-28,100.0,Hardware,Unknown,0.0,United States,5/3/2025,April,US
+Cars24,"Gurugram,Non-U.S.",200.0,2025-04-26,0.0,Transportation,Series G,1300.0,India,4/29/2025,April,Non-US
+SambaNova,SF Bay Area,77.0,2025-04-25,15.0,AI,Series D,1100.0,United States,5/3/2025,April,US
+Meta,SF Bay Area,100.0,2025-04-24,0.0,Consumer,Post-IPO,26000.0,United States,4/29/2025,April,US
+Intel,Sacramento,22000.0,2025-04-23,20.0,Hardware,Post-IPO,12.0,United States,4/23/2025,April,US
+Zopper,"Noida,Non-U.S.",100.0,2025-04-17,0.0,Finance,Series D,125.0,India,4/18/2025,April,Non-US
+Turo,SF Bay Area,150.0,2025-04-16,17.0,Transportation,Series E,467.0,United States,4/17/2025,April,US
+AppLovin,SF Bay Area,97.0,2025-04-16,0.0,Marketing,Post-IPO,1600.0,United States,4/19/2025,April,US
+Smashing,SF Bay Area,7.0,2025-04-16,100.0,Consumer,Seed,3.0,United States,4/18/2025,April,US
+GupShup,SF Bay Area,200.0,2025-04-15,0.0,Other,Series F,484.0,India,4/17/2025,April,Non-US
+Sonder,SF Bay Area,0.0,2025-04-14,0.0,Travel,Post-IPO,839.0,United States,4/17/2025,April,US
+Forto,"Berlin,Non-U.S.",200.0,2025-04-12,0.0,Logistics,Series D,593.0,United States,4/17/2025,April,US
+Google,SF Bay Area,0.0,2025-04-11,0.0,Consumer,Post-IPO,26.0,United States,4/17/2025,April,US
+Marin Software,SF Bay Area,0.0,2025-04-10,100.0,Marketing,Post-IPO,99.0,United States,4/17/2025,April,US
+Wing Cloud,"Tel Aviv,Non-U.S.",0.0,2025-04-09,100.0,Infrastructure,Seed,0.0,Israel,4/17/2025,April,Non-US
+Coho AI,"Tel Aviv,Non-U.S.",0.0,2025-04-06,100.0,Sales,Seed,8.0,Israel,4/17/2025,April,Non-US
+Five9,SF Bay Area,123.0,2025-04-03,4.0,Support,Post-IPO,862.0,United States,4/17/2025,April,US
+Tract,"London,Non-U.S.",0.0,2025-04-03,0.0,Real Estate,Unknown,0.0,United Kingdom,4/6/2025,April,Non-US
+Automattic,SF Bay Area,281.0,2025-04-02,16.0,Other,Series E,986.0,United States,4/3/2025,April,US
+Canva,"Sydney,Non-U.S.",10.0,2025-04-02,0.0,Consumer,Unknown,2500.0,Australia,4/3/2025,April,Non-US
+WhyHive,"Melbourne,Non-U.S.",0.0,2025-04-02,100.0,Data,Seed,0.0,Australia,4/6/2025,April,Non-US
+Northvolt,"Stockholm,Non-U.S.",2800.0,2025-03-31,62.0,Energy,Unknown,13800.0,Sweden,4/2/2025,March,Non-US
+2U,Washington D.C.,0.0,2025-03-31,0.0,Education,Post-IPO,426.0,United States,4/2/2025,March,US
+Palantir,Denver,120.0,2025-03-27,0.0,Data,Post-IPO,3000.0,United States,4/2/2025,March,US
+Block,SF Bay Area,931.0,2025-03-25,8.0,Finance,Post-IPO,150.0,United States,3/26/2025,March,US
+Niantic,SF Bay Area,68.0,2025-03-25,0.0,Other,Series D,770.0,United States,3/28/2025,March,US
+Prefect,Washington D.C.,20.0,2025-03-25,0.0,Data,Series B,47.0,United States,3/28/2025,March,US
+Brightcove,Boston,198.0,2025-03-19,33.0,Marketing,Acquired,145.0,United States,3/22/2025,March,US
+Acxiom,Little Rock,130.0,2025-03-19,3.0,Marketing,Post-IPO,0.0,United States,3/22/2025,March,US
+HelloFresh,SF Bay Area,273.0,2025-03-17,0.0,Food,Post-IPO,367.0,United States,3/18/2025,March,US
+Otorio,"Tel Aviv,Non-U.S.",45.0,2025-03-17,56.0,Security,Acquired,0.0,Israel,3/18/2025,March,Non-US
+ActiveFence,New York City,22.0,2025-03-13,7.0,Security,Series B,100.0,United States,3/15/2025,March,US
+D-ID,"Tel Aviv,Non-U.S.",22.0,2025-03-10,25.0,AI,Series B,48.0,Israel,3/12/2025,March,Non-US
+Arrival,"London,Non-U.S.",0.0,2025-03-10,100.0,Transportation,Post-IPO,629.0,United Kingdom,3/12/2025,March,Non-US
+Zonar Systems,Seattle,0.0,2025-03-09,0.0,Logistics,Acquired,50.0,United States,3/12/2025,March,US
+Wayfair ,Boston,340.0,2025-03-07,0.0,Retail,Post-IPO,1700.0,Germany,3/7/2025,March,Non-US
+Hewlett Packard Enterprise,SF Bay Area,2500.0,2025-03-06,5.0,Hardware,Post-IPO,1400.0,United States,3/7/2025,March,US
+TikTok,"Dublin,Non-U.S.",300.0,2025-03-06,0.0,Consumer,Acquired,0.0,United States,3/7/2025,March,US
+LiveRamp,SF Bay Area,65.0,2025-03-05,5.0,Marketing,Post-IPO,16.0,United States,3/7/2025,March,US
+Ola Electric,"Bengaluru,Non-U.S.",1000.0,2025-03-03,0.0,Transportation,Post-IPO,1700.0,India,3/5/2025,March,Non-US
+Rec Room,Seattle,0.0,2025-03-03,16.0,Consumer,Series F,294.0,United States,3/5/2025,March,US
+ANS Commerce,"Gurugram,Non-U.S.",0.0,2025-03-02,100.0,Retail,Acquired,2.0,India,3/3/2025,March,Non-US
+HP,SF Bay Area,2000.0,2025-02-28,0.0,Hardware,Post-IPO,0.0,United States,3/1/2025,February,US
+Grubhub,SF Bay Area,500.0,2025-02-28,23.0,Food,Acquired,284.0,United States,3/1/2025,February,US
+Autodesk,SF Bay Area,1350.0,2025-02-27,9.0,Other,Post-IPO,0.0,United States,2/28/2025,February,US
+Digimarc,Portland,90.0,2025-02-27,40.0,Other,Post-IPO,105.0,United States,3/5/2025,February,US
+Google,SF Bay Area,0.0,2025-02-27,0.0,Consumer,Post-IPO,26.0,United States,2/28/2025,February,US
+Flywire,Boston,125.0,2025-02-26,0.0,Finance,Series E,263.0,United States,3/1/2025,February,US
+eBay,"Tel Aviv,Non-U.S.",20.0,2025-02-26,0.0,Retail,Post-IPO,1200.0,Israel,2/28/2025,February,Non-US
+Commercetools,"Munich,Non-U.S.",0.0,2025-02-26,10.0,Retail,Series C,119.0,Germany,2/28/2025,February,Non-US
+Dayforce,"Toronto,Non-U.S.",0.0,2025-02-26,5.0,HR,Post-IPO,40.0,United States,2/28/2025,February,US
+Expedia,Seattle,0.0,2025-02-26,0.0,Travel,Post-IPO,3300.0,United States,2/28/2025,February,US
+Skybox Security,SF Bay Area,300.0,2025-02-24,100.0,Security,Private Equity,335.0,United States,2/26/2025,February,US
+HerMD,Cincinnati,0.0,2025-02-24,100.0,Healthcare,Series A,28.0,United States,2/26/2025,February,US
+Ibotta,Denver,70.0,2025-02-22,8.0,Retail,Post-IPO,93.0,United States,2/25/2025,February,US
+NetEase,"Tokyo,Non-U.S.",0.0,2025-02-22,0.0,Consumer,Post-IPO,0.0,Japan,2/24/2025,February,Non-US
+Zendesk,SF Bay Area,51.0,2025-02-21,0.0,Support,Acquired,85.0,United States,2/22/2025,February,US
+Electriq Global,"Tel Aviv,Non-U.S.",0.0,2025-02-21,100.0,Energy,Unknown,8.0,Israel,2/26/2025,February,Non-US
+SeatGeek,New York City,150.0,2025-02-20,15.0,Consumer,Series E,400.0,United States,2/22/2025,February,US
+Vendease,"Lagos,Non-U.S.",120.0,2025-02-19,44.0,Food,Series A,43.0,Nigeria,2/22/2025,February,Non-US
+Riskified,New York City,0.0,2025-02-19,0.0,Retail,Post-IPO,229.0,United States,2/22/2025,February,US
+Logically,"Manchester,Non-U.S.",40.0,2025-02-17,20.0,AI,Series A,37.0,United Kingdom,2/18/2025,February,Non-US
+Eviation Aircraft,"Tel Aviv,Non-U.S.",0.0,2025-02-14,0.0,Aerospace,Acquired,140.0,Israel,2/18/2025,February,Non-US
+Blue Origin,Seattle,1000.0,2025-02-13,10.0,Aerospace,Unknown,167.0,United States,2/15/2025,February,US
+Metro Africa Xpress,"Lagos,Non-U.S.",150.0,2025-02-13,0.0,Logistics,Unknown,64.0,Nigeria,3/29/2025,February,Non-US
+Sophos,"Oxford,Non-U.S.",0.0,2025-02-13,6.0,Security,Acquired,125.0,United States,2/14/2025,February,US
+Redfin,Seattle,450.0,2025-02-12,0.0,Real Estate,Post-IPO,320.0,United States,2/18/2025,February,US
+Zepz,"London,Non-U.S.",200.0,2025-02-12,20.0,Finance,Series E,700.0,United Kingdom,2/13/2025,February,Non-US
+Getaround,SF Bay Area,0.0,2025-02-12,0.0,Transportation,Series D,403.0,United States,2/14/2025,February,US
+Unity,SF Bay Area,0.0,2025-02-11,0.0,Other,Post-IPO,1300.0,United States,2/13/2025,February,US
+Meta,SF Bay Area,3600.0,2025-02-10,5.0,Consumer,Post-IPO,26000.0,United States,1/17/2025,February,US
+Wise,Tampa Bay,300.0,2025-02-10,0.0,Finance,Post-IPO,300.0,United States,2/26/2025,February,US
+Justworks,New York City,200.0,2025-02-10,0.0,HR,Unknown,160.0,United States,2/11/2025,February,US
+MessageBird,"Amsterdam,Non-U.S.",120.0,2025-02-10,33.0,Other,Series C,1100.0,Netherlands,2/11/2025,February,Non-US
+Sprinklr,New York City,500.0,2025-02-06,15.0,Support,Post-IPO,429.0,United States,2/8/2025,February,US
+NanoLock,"Tel Aviv,Non-U.S.",0.0,2025-02-06,100.0,Security,Series B,18.0,Israel,2/26/2025,February,Non-US
+Workday,SF Bay Area,1750.0,2025-02-05,8.0,HR,Post-IPO,230.0,United States,2/5/2025,February,US
+Outbrain,New York City,200.0,2025-02-05,0.0,Marketing,Post-IPO,394.0,United States,2/6/2025,February,US
+Sonos,Santa Barbara,200.0,2025-02-05,12.0,Consumer,Post-IPO,455.0,United States,2/6/2025,February,US
+SRTX,"Montreal,Non-U.S.",140.0,2025-02-05,0.0,Manufacturing,Unknown,151.0,Canada,2/6/2025,February,Non-US
+Tabnine,"Tel Aviv,Non-U.S.",15.0,2025-02-05,18.0,AI,Series B,57.0,Israel,2/6/2025,February,Non-US
+Hugging Face,New York City,10.0,2025-02-05,4.0,AI,Series D,395.0,United States,2/6/2025,February,US
+Cruise,SF Bay Area,1000.0,2025-02-04,50.0,Transportation,Acquired,15000.0,United States,2/5/2025,February,US
+Okta,SF Bay Area,180.0,2025-02-04,3.0,Security,Post-IPO,1200.0,United States,2/5/2025,February,US
+AppsFlyer,SF Bay Area,100.0,2025-02-04,7.0,Data,Unknown,293.0,United States,2/5/2025,February,US
+Asana,SF Bay Area,100.0,2025-02-04,0.0,Other,Post-IPO,453.0,United States,2/5/2025,February,US
+TripAdvisor,Boston,75.0,2025-02-04,0.0,Travel,Post-IPO,3.0,United States,2/6/2025,February,US
+Intel,Sacramento,58.0,2025-02-04,0.0,Hardware,Post-IPO,12.0,United States,2/22/2025,February,US
+Salesforce,SF Bay Area,1000.0,2025-02-03,1.0,Sales,Post-IPO,65.0,United States,2/4/2025,February,US
+Sure,New York City,70.0,2025-02-03,0.0,Finance,Series C,123.0,United States,2/6/2025,February,US
+Cushion,SF Bay Area,0.0,2025-01-30,100.0,Finance,Series A,20.0,United States,2/2/2025,January,US
+Placer.ai,SF Bay Area,150.0,2025-01-29,18.0,Data,Unknown,267.0,United States,1/30/2025,January,US
+Amazon,Seattle,0.0,2025-01-29,0.0,Retail,Post-IPO,8100.0,United States,2/2/2025,January,US
+Digital River,Minneapolis,122.0,2025-01-28,0.0,Retail,Private Equity,50.0,United States,2/2/2025,January,US
+Moon Active,"Tel Aviv,Non-U.S.",0.0,2025-01-27,0.0,Consumer,Unknown,425.0,Israel,1/29/2025,January,Non-US
+Stripe,SF Bay Area,300.0,2025-01-21,3.0,Finance,Series I,8700.0,United States,1/21/2025,January,US
+Turso,"London,Non-U.S.",0.0,2025-01-21,0.0,Product,Seed,7.0,Canada,1/29/2025,January,Non-US
+Unbabel,"Lisbon,Non-U.S.",66.0,2025-01-20,25.0,Support,Series C,91.0,Portugal,1/29/2025,January,Non-US
+Chrono24,"Karlsruhe,Non-U.S.",110.0,2025-01-16,24.0,Retail,Series C,205.0,Germany,1/18/2025,January,Non-US
+Pocket FM,"Bengaluru,Non-U.S.",75.0,2025-01-16,0.0,Media,Series D,212.0,India,1/21/2025,January,Non-US
+Aurora Solar,SF Bay Area,58.0,2025-01-16,0.0,Energy,Series D,523.0,United States,1/18/2025,January,US
+HeyJobs,"Berlin,Non-U.S.",90.0,2025-01-15,0.0,Recruiting,Series B,62.0,Germany,2/2/2025,January,Non-US
+AppLovin,SF Bay Area,89.0,2025-01-15,0.0,Marketing,Post-IPO,1600.0,United States,4/19/2025,January,US
+ShareChat,"Bengaluru,Non-U.S.",27.0,2025-01-15,5.0,Marketing,Series D,222.0,India,1/17/2025,January,Non-US
+Textio,Seattle,15.0,2025-01-15,0.0,Recruiting,Unknown,42.0,United States,1/18/2025,January,US
+Advisor Credit Exchange,Philadelphia,0.0,2025-01-14,100.0,Finance,Unknown,31.0,United States,1/15/2025,January,US
+Microsoft,Seattle,0.0,2025-01-14,0.0,Other,Post-IPO,1.0,United States,1/15/2025,January,US
+TechCrunch,SF Bay Area,0.0,2025-01-14,0.0,Media,Acquired,0.0,United States,1/18/2025,January,US
+Alza,New York City,0.0,2025-01-13,100.0,Finance,Seed,7.0,United States,1/15/2025,January,US
+Boozt,"Malmo,Non-U.S.",0.0,2025-01-13,10.0,Retail,Post-IPO,56.0,Sweden,2/2/2025,January,Non-US
+Wayfair,"Berlin,Non-U.S.",730.0,2025-01-10,3.0,Retail,Post-IPO,1700.0,Germany,1/12/2025,January,Non-US
+Pandion,Seattle,63.0,2025-01-10,100.0,Logistics,Series B,76.0,United States,1/12/2025,January,US
+Zillow,Seattle,0.0,2025-01-10,0.0,Real Estate,Post-IPO,97.0,United States,1/15/2025,January,US
+Icon,Austin,114.0,2025-01-09,0.0,Construction,Series B,451.0,United States,1/12/2025,January,US
+Redfin,Seattle,46.0,2025-01-09,0.0,Real Estate,Post-IPO,320.0,United States,1/15/2025,January,US
+Altruist,SF Bay Area,37.0,2025-01-07,10.0,Finance,Series E,449.0,United States,1/8/2025,January,US
+Aqua Security,Boston,0.0,2025-01-07,0.0,Security,Series E,325.0,United States,1/8/2025,January,US
+Cloud Software Group,SF Bay Area,0.0,2025-01-07,0.0,Other,Unknown,0.0,United States,1/12/2025,January,US
+Microsoft,Seattle,0.0,2025-01-07,0.0,Other,Post-IPO,1.0,United States,1/12/2025,January,US
+SolarEdge,"Tel Aviv,Non-U.S.",400.0,2025-01-06,0.0,Energy,Post-IPO,155.0,Israel,1/8/2025,January,Non-US
+Level,New York City,0.0,2025-01-02,100.0,Finance,Series B,27.0,United States,1/4/2025,January,US
