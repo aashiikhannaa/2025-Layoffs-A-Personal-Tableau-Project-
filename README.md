@@ -1,5 +1,3 @@
-# 2025-Layoffs-A-Personal-Tableau-Project-
-
 # 2025 Tech Layoffs Data Visualization
 
 This repository contains the Tableau workbook and cleaned dataset used to analyze and visualize global tech layoffs in 2025.
