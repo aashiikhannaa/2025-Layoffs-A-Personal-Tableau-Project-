@@ -1,6 +1,6 @@
 # 2025 Tech Layoffs Data Visualization
 
-This repository contains the Tableau workbook and cleaned dataset used to analyze and visualize global tech layoffs in 2025.
+This repository contains the Tableau workbook, a Jupyter Notebook and a cleaned dataset used to analyze and visualize global tech layoffs in 2025.
 
 ---
 
@@ -8,6 +8,7 @@ This repository contains the Tableau workbook and cleaned dataset used to analyz
 
 - `2025_Tech_Layoffs_Cleaned.csv` — The cleaned and preprocessed layoffs data file used for visualization.
 - `2025Layoffs.twbx` — Tableau Packaged Workbook with multiple visualizations and a dashboard built from the cleaned data.
+- `techLayoffs2025_preprocessing.ipynb` - Jupyter notebook with Python-based data preprocessing used to clean the original open-sourced dataset.
 
 ---
 
@@ -55,7 +56,7 @@ The goal is to provide a clear, interactive dashboard for understanding global l
 ## Dependencies & Requirements
 
 - Tableau Desktop (version 2025.1.2 recommended) or Tableau Public for opening and interacting with the workbook
-- Python environment used for preprocessing (code not included in this repo but preprocessing steps are described above)
+- Python environment used for preprocessing (Jupyter Notebook)
 
 ---
 
